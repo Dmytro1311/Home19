@@ -30,5 +30,6 @@ public class Burger {
         this.green= green;
         this.mayonnaise = mayonnaise;
         System.out.println("Склад бургеру " + roll + " " + meatBeef + " " + meat +  " " + cheese + " " + green + " " + mayonnaise);
+
     }
 }

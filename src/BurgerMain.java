@@ -6,5 +6,7 @@ public class BurgerMain {
         Burger doubleMeatBurger = new Burger("roll", "beef", " pork" , "cheese", "green", "mazik");
 
 
+
+
     }
 }
